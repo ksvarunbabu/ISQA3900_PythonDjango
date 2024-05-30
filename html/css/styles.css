@@ -1,7 +1,7 @@
 p {
   text-align: center;
-  color:rgb(0, 126, 252);
-  background-color: white;
+  color:rgba(252, 252, 8, 0.968);
+  background-color: rgba(80, 8, 237, 0.3);
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
   display: inline;
