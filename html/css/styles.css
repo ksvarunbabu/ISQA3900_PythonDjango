@@ -1,7 +1,21 @@
 p {
   text-align: center;
-  color:blue;
+  color:rgb(0, 126, 252);
   background-color: white;
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
+  display: inline;
+}
+
+body {
+  color:azure;
+  align-items: center;
+}
+
+.heading {
+  color:rgb(254, 3, 3);
+  padding: 5px;
+  display:inline;
+  background-color:aquamarine;
+  text-align: center;
 }

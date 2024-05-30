@@ -9,17 +9,35 @@
         background-size:cover;
         background-repeat:no-repeat;
         z-index: -1; /* Image will be placed behind the contents*/
+      }
+      .image-contain {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      .image-small {
+        width:30%;
+        height:auto;
+        align-items: center;
+      }
     </style>
   </head>
-  <hr>
-  <p>Hello There!!!</p> 
-  <p>I am Varun Kutuva Sudharsanam and This is My Portfolio</p>
-  </hr>
+
   <body>
     <hr>
-      <h1><a href="experience.html">Professional Experience</a></h1>
+      <h2 class="heading"><a href="experience.html">Professional Experience</a></h2>
+      <h2 class="heading"> <a href="skills.html">Professional Skillset</a></h2>
+      <h2 class="heading"> <a href="projects.html">Professional Projects</a></h2>
     </hr>
-    <h2> Professional Skillset</h2>
-    <h3> Professional Projects</h3>
+    <hr>
+      <p>Hello There!!!</p> 
+      <p>I am Varun Kutuva Sudharsanam and This is My Portfolio</p>
+      <div class="image-contain">
+        <img src="images/vk.jpg" alt="Varun_Image" class="image-small">
+      </div>
+    </hr>
+    <div>
+      <p> About Me <br> I have a total 17 years of IT experience.</p>
+    </div>
   </body>
-  </html>
+ </html>
