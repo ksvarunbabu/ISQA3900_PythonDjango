@@ -7,4 +7,4 @@ ISQA3900 class enables to learn web development using Python and Django Framewor
 
 ***It is me - Varun*** <br>
 
-This is my portfolia that talks about my professional expertise. I am using basic HTML along with CSS Styles to develop this website. This is my first version and I will work on later to develop a full fledge website.
+This is my portfolio that talks about my professional expertise. I am using basic HTML along with CSS Styles to develop this website. This is my first version and I will work on later to develop a full fledge website.
