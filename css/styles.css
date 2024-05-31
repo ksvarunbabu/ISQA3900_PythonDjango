@@ -1,15 +1,16 @@
 p {
   text-align: center;
-  color:rgba(252, 252, 8, 0.968);
-  background-color: rgba(80, 8, 237, 0.3);
+  color:rgb(255, 255, 0);
+  background-color: rgba(35, 78, 80, 0.3);
   font-family: 'Courier New', Courier, monospace;
-  font-size: larger;
+  font-size: x-large;
   display: inline;
-  font-weight: bold;
+  font-weight:normal;
 }
 
-body {
-  color:azure;
+.mycolour {
+  color:rgb(0, 132, 121);
+  background-color: rgb(196, 247, 248);
   align-items: center;
 }
 
@@ -19,4 +20,32 @@ body {
   display:inline;
   background-color:rgba(255, 255, 255, 0.5);
   text-align: center;
+}
+
+.heading1 {
+  color:rgb(5, 224, 115);
+  padding: 5px;
+  display:inline;
+  background-color:rgba(72, 163, 131, 0.5);
+  text-align: center;
+}
+
+.image-contain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: bottom 20px;
+}
+
+.image-small {
+  width:10%;
+  height:auto;
+  align-items:center;
+  margin-top: 15px;
+}
+
+.mytable {
+  color:black;
+  background-color: rgb(71, 151, 177);
 }
