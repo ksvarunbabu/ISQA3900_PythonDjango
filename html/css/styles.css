@@ -1,0 +1,21 @@
+p {
+  text-align: center;
+  color:rgba(252, 252, 8, 0.968);
+  background-color: rgba(80, 8, 237, 0.3);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  display: inline;
+}
+
+body {
+  color:azure;
+  align-items: center;
+}
+
+.heading {
+  color:rgb(254, 3, 3);
+  padding: 5px;
+  display:inline;
+  background-color:aquamarine;
+  text-align: center;
+}
